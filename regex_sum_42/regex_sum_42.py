@@ -1,5 +1,5 @@
 import re
-hand = open('Unconfirmed 410553.crdownload')
+hand = open('regex_sum_42.txt')
 numlist = list()
 for line in hand:
     line = line.rstrip()
